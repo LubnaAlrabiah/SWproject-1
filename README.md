@@ -1,6 +1,10 @@
 
 
 # Food Prediction
+
+# importent note 
+I did push again in github because I had a problem. That's why the push appeared at one time.
+
 # Description:
 
 This workshop is based on developing a web based machine learning system for simple text classification. the following steps will show how to setup Node js server in order to run the core system of the machine learning (fasttexttool) on input from a user. 
@@ -37,6 +41,10 @@ Download dependencies for a system:
 In this Release we updated the js file to match the requirements. now the user will be able to input a text of any type of food in the text-area filed, the server provides a submit and clear buttons. submit button will be responsible to wrap up the text and sends it to the server (index.js). After the text has been submitted to the server. The server would now analyze the text and lable it with the correct category.
 
 The result after being processed will be returned to the users page (UI).
+
+# my website User Interface looks like:
+
+ ![Screenshot (40)](https://user-images.githubusercontent.com/105477100/170528324-041abb17-3bec-44a3-9d07-d47ec183ba9a.jpg)
 
 # Students Names
 
@@ -97,12 +105,7 @@ We used Travis CI which wass the first CI as a service tool. it introduced a new
           
      Now you return to Travis CI and go to the intended repository and click on the braches then you will wait, few seconds later it will appear pass like in the pictures.
  
-# importent note 
 
-I did push again in github because I had a problem. That's why the push appeared at one time.
- 
- #  Food Prediction page
- ![Screenshot (40)](https://user-images.githubusercontent.com/105477100/170528324-041abb17-3bec-44a3-9d07-d47ec183ba9a.jpg)
 
  
 # Images of Pass in Travis CI
