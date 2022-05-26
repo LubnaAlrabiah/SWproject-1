@@ -1,0 +1,19 @@
+Language: node_js
+
+
+
+node_js:
+
+- 7
+
+
+
+script:
+
+- npm test
+
+
+
+cache:
+
+npm: false
