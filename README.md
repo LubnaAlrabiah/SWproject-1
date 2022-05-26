@@ -84,7 +84,12 @@ We used Travis CI which wass the first CI as a service tool. it introduced a new
           git push origin main
           
      Now you return to Travis CI and go to the intended repository and click on the braches then you will wait, few seconds later it will appear pass like in the pictures.
-      
+ 
+# importent note 
+
+I did push again in github because I had a problem. That's why the push appeared at one time.
+ 
+ 
 # Images of Pass in Travis CI
 
 ![image0](https://user-images.githubusercontent.com/105477100/170521305-a1503b8b-65ec-4a6d-b9cb-352e99ea31e7.jpeg)
