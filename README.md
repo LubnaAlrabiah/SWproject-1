@@ -38,6 +38,18 @@ In this Release we updated the js file to match the requirements. now the user w
 
 The result after being processed will be returned to the users page (UI).
 
+# Students Names
+
+Aljowharah Turki Aldawood 
+Ataaldawood@sm.imamu.edu.sa
+Teef Mohammed Aloshan tmaaloshan@sm.imamu.edu.sa
+Lubna Mohammed Alrabiah lmialrabiah@sm.imamu.edu.sa
+Reem Mohammed Alothman
+Rmalothman01@sm.imamu.edu.sa
+
+# Section
+371
+
 # Travis CI Testing 
 
 We used Travis CI which wass the first CI as a service tool. it introduced a new approach to building code in the cloud. this tool allows the user to link repository, build and test their apps. As well it is a hosted continuous integration services used to build and test software projects hosted on GitHup.it also provides services for open-source projects for free 
@@ -89,7 +101,13 @@ We used Travis CI which wass the first CI as a service tool. it introduced a new
 
 I did push again in github because I had a problem. That's why the push appeared at one time.
  
+ #  Food Prediction page
+ ![Screenshot (40)](https://user-images.githubusercontent.com/105477100/170528324-041abb17-3bec-44a3-9d07-d47ec183ba9a.jpg)
+
  
 # Images of Pass in Travis CI
 
 ![image0](https://user-images.githubusercontent.com/105477100/170521305-a1503b8b-65ec-4a6d-b9cb-352e99ea31e7.jpeg)
+
+![Screenshot (43)](https://user-images.githubusercontent.com/105477100/170528884-8dbf7e0b-21d1-4ac5-aac3-33c7ac6d6450.jpg)
+
